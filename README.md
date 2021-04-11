@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fingyu1008)](https://github.com/ingyu1008)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ingyu1008k&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ingyu1008&row=2&column=3&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=ingyu1008)](https://github.com/ingyu1008)
 
 ![Profile2](https://github-readme-stats.vercel.app/api?username=ingyu1008&show_icons=true&hide_border=true&count_private=true)
