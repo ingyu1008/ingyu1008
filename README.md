@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=ingyu1008&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/ingyu1008)  
 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fingyu1008)](https://github.com/ingyu1008)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ingyu1008&theme=chalk&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=ingyu1008&theme=calm)](https://github.com/ingyu1008)
+
 ![Profile2](https://github-readme-stats.vercel.app/api?username=ingyu1008&show_icons=true&hide_border=true&count_private=true)
 ![Solvedac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ingyu1008)
+
+[![CodeForces Profile](http://cf.leed.at?id=_MatWhyTle)](https://codeforces.com/profile/MatWhyTle)
