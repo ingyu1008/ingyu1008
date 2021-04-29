@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 
 ![Profile2](https://github-readme-stats.vercel.app/api?username=ingyu1008&show_icons=true&hide_border=true&count_private=true)
 
-![Solvedac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ingyu1008)
+<!--![Solvedac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ingyu1008)-->
+![Solvedac Profile v2](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=ingyu1008)
 [![CodeForces Profile](http://cf.leed.at?id=MatWhyTle)](https://codeforces.com/profile/MatWhyTle)
