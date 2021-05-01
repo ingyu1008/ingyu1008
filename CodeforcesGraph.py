@@ -7,7 +7,7 @@ options.add_argument('--no-sandbox')
 options.add_argument('--disable-dev-shm-usage')
 options.add_argument('ignore-certificate-errors')
 options.add_argument('headless')
-driver = webdriver.Chrome(executable_path='/chromedriver', options=options)
+driver = webdriver.Chrome(executable_path='path/chromedriver', options=options)
 
 URL = 'https://codeforces.com/profile/MatWhyTle?graphType=rated'
 
