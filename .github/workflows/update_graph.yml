@@ -37,11 +37,11 @@ jobs:
             #     echo test, and deploy your project.
             - name: Install Dependencies
               run: |
-                python -m pip install selenium
+                python3 -m pip3 install selenium
 
 
             - name: Capture Graph
-              run: sudo python CodeforcesGraph.py
+              run: sudo python3 CodeforcesGraph.py
 
             - name: Git Configs
               run: |
