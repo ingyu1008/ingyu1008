@@ -40,9 +40,7 @@ jobs:
                 sudo python -m pip install selenium
 
             - name: Capture Graph
-              run: |
-              chmod 755 "path/chromedriver"
-              sudo python CodeforcesGraph.py
+              run: sudo python CodeforcesGraph.py
 
             - name: Git Configs
               run: |
