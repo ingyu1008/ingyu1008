@@ -41,7 +41,7 @@ jobs:
 
 
             - name: Capture Graph
-              run: python CodeforcesGraph.py
+              run: sudo python CodeforcesGraph.py
 
             - name: Git Configs
               run: |
