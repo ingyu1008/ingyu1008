@@ -41,7 +41,7 @@ jobs:
 
             - name: Capture Graph
               run: |
-              sudo chmod 755 "path/chromedriver"
+              chmod 755 "path/chromedriver"
               sudo python CodeforcesGraph.py
 
             - name: Git Configs
