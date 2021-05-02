@@ -4,8 +4,8 @@ name: Update Codeforces Graph
 
 # Controls when the action will run.
 on:
-  schedule:
-    - cron: '30 21 * * *'
+  #schedule:
+  #    cron: '30 21 * * *'
   #allows manual run
   workflow_dispatch:
 
