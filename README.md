@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Codeforces Graph](https://github.com/ingyu1008/Algorithm-Problem-Solving/blob/master/cfStats.svg)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-621%20Thousand%20lines%20of%20code-blue)
 
@@ -88,5 +88,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2022 18:45:56 UTC
+ Last Updated on 17/04/2022 18:47:30 UTC
 <!--END_SECTION:waka-->
