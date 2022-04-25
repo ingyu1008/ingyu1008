@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![Codeforces Graph](https://github.com/ingyu1008/Algorithm-Problem-Solving/blob/master/cfStats.svg)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-621%20Thousand%20lines%20of%20code-blue)
 
@@ -45,13 +45,13 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.92% 
+Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
 Tuesday      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
 Wednesday    73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
 Thursday     59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
 Friday       46 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
 Saturday     88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
-Sunday       113 commits    █████░░░░░░░░░░░░░░░░░░░░   21.9%
+Sunday       112 commits    █████░░░░░░░░░░░░░░░░░░░░   21.71%
 
 ```
 
@@ -88,5 +88,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2022 18:47:37 UTC
+ Last Updated on 25/04/2022 18:51:08 UTC
 <!--END_SECTION:waka-->
