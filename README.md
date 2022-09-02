@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-605%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-621%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 ```text
 Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
 Tuesday      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
-Wednesday    52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
+Wednesday    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
 Thursday     42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Friday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.24% 
+Friday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.57% 
 Saturday     57 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
 Sunday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.08%
 
@@ -90,5 +90,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2022 18:52:32 UTC
+ Last Updated on 02/09/2022 18:53:07 UTC
 <!--END_SECTION:waka-->
