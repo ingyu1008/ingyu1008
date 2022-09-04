@@ -29,53 +29,11 @@ Here are some ideas to get you started:
 ![Codeforces Graph](https://github.com/ingyu1008/Algorithm-Problem-Solving/blob/master/cfStats.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-621%20Thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    99 commits     ████████░░░░░░░░░░░░░░░░░   32.57% 
-🌆 Daytime    81 commits     ██████░░░░░░░░░░░░░░░░░░░   26.64% 
-🌃 Evening    70 commits     █████░░░░░░░░░░░░░░░░░░░░   23.03% 
-🌙 Night      54 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.76%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-Tuesday      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
-Wednesday    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
-Thursday     42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Friday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.24% 
-Saturday     58 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.08% 
-Sunday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.08%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
 
 **I Mostly Code in C++** 
 
@@ -90,5 +48,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 18:51:17 UTC
+ Last Updated on 04/09/2022 18:47:22 UTC
 <!--END_SECTION:waka-->
