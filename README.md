@@ -35,48 +35,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-621%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    102 commits    ████████░░░░░░░░░░░░░░░░░   33.55% 
-🌆 Daytime    81 commits     ██████░░░░░░░░░░░░░░░░░░░   26.64% 
-🌃 Evening    67 commits     █████░░░░░░░░░░░░░░░░░░░░   22.04% 
-🌙 Night      54 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.76%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
-Wednesday    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
-Thursday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
-Friday       22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.24% 
-Saturday     57 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-Sunday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.08%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -90,5 +48,5 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2022 18:53:05 UTC
+ Last Updated on 14/09/2022 18:56:47 UTC
 <!--END_SECTION:waka-->
