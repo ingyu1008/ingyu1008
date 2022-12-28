@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 
 ![Codeforces Graph](https://github.com/ingyu1008/Algorithm-Problem-Solving/blob/master/cfStats.svg)
 
-- Awards / Activities
- - \[Inscrutable\] 알고리즘 문제 풀이 관련 유틸 제공 사이트 백엔드 개발
+### Awards / Activities
+ - **\[Inscrutable\]** 알고리즘 문제 풀이 관련 유틸 제공 사이트 백엔드 개발
  - UCPC 2020 예선 61위(본선 진출)
  - UCPC 2020 본선 92위
  - UCPC 2021 예선 63위
