@@ -28,6 +28,27 @@ Here are some ideas to get you started:
 
 ![Codeforces Graph](https://github.com/ingyu1008/Algorithm-Problem-Solving/blob/master/cfStats.svg)
 
+- Awards / Activities
+ - \[Inscrutable\] 알고리즘 문제 풀이 관련 유틸 제공 사이트 백엔드 개발
+ - UCPC 2020 예선 61위(본선 진출)
+ - UCPC 2020 본선 92위
+ - UCPC 2021 예선 63위
+ - 2020 ICPC 인터넷 예선 65위
+ - 2021 ICPC 인터넷 예선 50위(본선 진출)
+ - 2021 ICPC Asia Seoul Regional 27위(교내 3위)
+ - SKH 2020 Algorithm Contest 8위(Intermediate Division)
+ - SKH 2020 Algorithm Marathon 9위
+ - HCPC(제7회 한양대학교 프로그래밍 경시대회) 2020 Beginner Division 1위
+ - 주간 알로하(한양대학교  교내 동아리 프로그래밍 대회) 1차~4차 출제 및 검수
+ - HCPC(제8회 한양대학교 프로그래밍 경시대회) 2021 출제위원장
+ - HCPC(제8회 한양대학교 프로그래밍 경시대회) 2021 검수위원장
+ - HCTF(제3회 한양대학교 교내 해킹방어대회) 2020 Beginner Session 2위
+ - 제 2회 PMCC Beginner Division 1위
+ - TOPCIT 수준 3 (644점)
+ - Solved.ac 레이팅 2767(Ruby V, 69위, 상위 약 0.09%)
+ - Codeforces 탑 레이팅 1825(Expert, 상위 약 8%)
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2049%20mins-blue)
 
