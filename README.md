@@ -42,6 +42,7 @@ Here are some ideas to get you started:
  - 주간 알로하(한양대학교  교내 동아리 프로그래밍 대회) 1차~4차 출제 및 검수
  - HCPC(제8회 한양대학교 프로그래밍 경시대회) 2021 출제위원장
  - HCPC(제8회 한양대학교 프로그래밍 경시대회) 2021 검수위원장
+ - SKH (숭고한 연합 알고리즘 콘테스트) 2022 출제 및 검수
  - HCTF(제3회 한양대학교 교내 해킹방어대회) 2020 Beginner Session 2위
  - 제 2회 PMCC Beginner Division 1위
  - TOPCIT 수준 3 (644점)
