@@ -48,6 +48,7 @@ Here are some ideas to get you started:
  - TOPCIT 수준 3 (644점)
  - Solved.ac 레이팅 2767(Ruby V, 69위, 상위 약 0.09%)
  - Codeforces 탑 레이팅 1825(Expert, 상위 약 8%)
+ - 제9회 공군사이버전사경연대회(해킹방어대회) 사이버작전센터장상 (4위)
 
 
 <!--START_SECTION:waka-->
