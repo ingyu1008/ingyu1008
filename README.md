@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+<!--
 ![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
@@ -110,7 +111,6 @@ Python                   1 repo              █░░░░░░░░░░�
 Hack                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
-
 
 
  Last Updated on 22/10/2022 18:54:42 UTC
