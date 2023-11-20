@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Profile2](https://github-readme-stats.vercel.app/api?username=ingyu1008&show_icons=true&hide_border=true&count_private=true)
 [![CodeForces Profile](http://cf.leed.at?id=MatWhyTle)](https://codeforces.com/profile/MatWhyTle)
 
-![Codeforces Graph](https://github.com/ingyu1008/Algorithm-Problem-Solving/blob/master/cfStats.svg)
+<!--![Codeforces Graph](https://github.com/ingyu1008/Algorithm-Problem-Solving/blob/master/cfStats.svg)-->
 
 ### Awards / Activities
  - **\[Inscrutable\]** 알고리즘 문제 풀이 관련 유틸 제공 사이트 백엔드 개발
