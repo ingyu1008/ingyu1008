@@ -19,8 +19,8 @@
 ## Work Experience
 ### Hanyang Univ. Lab. of AAIS(Advanced Applications of Intelligence System) / Research Student
 - Research on Hidden Space of Advanced Neural Cognitive Decoding
-- Study on DDPM and implementation of the paper
-- Study on EDM and applying to real-life problem
+- Apply DDPM / EDM on Real Life Problem
+- Deeper Study on Fisher Information Matrix
 
 ### Republic of Korea Airforce(ROKAF) / Cybersecurity Specialist
 - General Cyberattack Denfence 24/7
