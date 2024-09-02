@@ -8,18 +8,14 @@
 - Major Programming Languages: C++, Python, Java
 - Fundamental Web Stacks: HTML, CSS, MySQL, (Little bit of React)
 ### Currently Studying
-- Generative Models (Diffusion Models)
-  - Denoising Diffusion Probabilistic Models (https://arxiv.org/abs/2006.11239)
-  - Equivariant Diffusion for Molecule Generation in 3D (https://arxiv.org/abs/2203.17003)
-- Large Language Models
+- Natural Language Processing
 ### Interested In (Planning to Study)
 - Modern Programming Languages: Rust, Golang
-- Advanced Applications of Diffusion Models
+- Compiler Implementation
 
 ## Work Experience
 ### Hanyang Univ. Lab. of AAIS(Advanced Applications of Intelligence System) / Research Student
-- Research on Hidden Space of Advanced Neural Cognitive Decoding
-- Apply DDPM / EDM on Real Life Problem
+- Studyied Information Theory, Sharpness Measure
 - Deeper Study on Fisher Information Matrix
 
 ### Republic of Korea Airforce(ROKAF) / Cybersecurity Specialist
