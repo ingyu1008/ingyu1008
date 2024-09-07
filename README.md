@@ -15,7 +15,7 @@
 
 ## Work Experience
 ### Hanyang Univ. Lab. of AAIS(Advanced Applications of Intelligence System) / Research Student
-- Studyied Information Theory, Sharpness Measure
+- Studied Information Theory, Sharpness Measure
 - Deeper Study on Fisher Information Matrix
 
 ### Republic of Korea Airforce(ROKAF) / Cybersecurity Specialist
